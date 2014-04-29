@@ -7,7 +7,7 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
 using System.Configuration;
 
-namespace CoreModel.Elements
+namespace SeleniumLeverage.Elements
 {
     public class Element
     {
